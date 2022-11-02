@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Deep learning methodology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me annmaryvincent657878@gmail.com
+                     https://twitter.com/ann657878
 
 <!---
 007annmol/007annmol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
